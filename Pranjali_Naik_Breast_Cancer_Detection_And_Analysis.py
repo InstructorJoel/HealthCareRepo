@@ -5,7 +5,7 @@
 #       and using predictive modeling.
 
 #Note: Save the images("img_Pranjali") folder and the python file in the same directory.
-#      There are 322 images so the entire run time is around 30 minutes.
+#      There are 100 images so the entire run time is around 10-15 minutes.
 
 ########
 
